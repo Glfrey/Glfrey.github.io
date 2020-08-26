@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Gillian Reynolds PhD Student at Montana State University "
+title: "PhD Student at Montana State University "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
