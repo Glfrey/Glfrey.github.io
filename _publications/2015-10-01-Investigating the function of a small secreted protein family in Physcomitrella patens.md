@@ -5,7 +5,7 @@ collection: publications
 permalink: 
 excerpt: ''
 date: 2016-09-01
-venue: 'MOSS 2016 Conference'
+venue: 'MOSS Conference, University of Leeds'
 paperurl: 'http://Glfrey.github.io/files/moss.pdf'
 citation: 'Sherrard, G., Woolard, G., & Wheeler, M. (2016). &quot;Investigating the Function of a Small Secreted Protein Family in Physcomitrella Patens
 .&quot; <i>MOSS 2016 Conference, 2nd - 5th September 2016, University of Leeds</i>. 1(3).'
