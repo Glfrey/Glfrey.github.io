@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 3"
+title: "Investigating the function of a small secreted protein
+family in Physcomitrella patens"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: 
+excerpt: ''
+date: 2016-09
+venue: 'MOSS 2016 Conference'
+paperurl: 'http://Glfrey.github.io/files/moss.pdf'
+citation: 'Sherrard, G., Woolard, G., & Wheeler, M. (2016). &quot;Investigating the Function of a Small Secreted Protein Family in Physcomitrella Patens
+.&quot; <i>MOSS 2016 Conference, 2nd - 5th September 2016, University of Leeds</i>. 1(3).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://Glfrey.github.io/files/moss.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Sherrard, G., Woolard, G., & Wheeler, M. (2016). "Investigating the Function of a Small Secreted Protein Family in Physcomitrella Patens." <i>In: MOSS 2016 Conference, 2nd - 5th September 2016, University of Leeds. (Unpublished)</i>. 1(3).
+
