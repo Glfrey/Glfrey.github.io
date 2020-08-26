@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Gillian Reynlds, Individual Interdisciplinary PhD Student In Computer Science and Plant Genetics at Montana State University "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
