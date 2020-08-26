@@ -7,7 +7,7 @@ excerpt: ''
 date: 2019-04-01
 venue: 'IEEE'
 paperurl: 'http://Glfrey.github.io/files/mettest.pdf'
-citation: ' Shahri, M.P., Srinivasan, M., Reynolds, G., Bimczok, D., Kahanda, I. and Kanewala, U. 2019. &quot;Metamorphic Testing for Quality Assurance of Protein Function Prediction Tools.&quot; <i>2019 IEEE International Conference On Artificial Intelligence Testing (AITest) 1</i>.'
+citation: ' Shahri, M.P., Srinivasan, M., Reynolds, G., Bimczok, D., Kahanda, I. and Kanewala, U. 2019. &quot;Metamorphic Testing for Quality Assurance of Protein Function Prediction Tools.&quot; <i>2019 IEEE International Conference On Artificial Intelligence Testing (AITest)</i>.'
 ---
 
 [Download paper here](http://Glfrey.github.io/files/mettest.pdf)
