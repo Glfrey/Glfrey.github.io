@@ -9,7 +9,7 @@
 locale                   : "en-UK"
 title                    : "Gillian Reynolds"
 title_separator          : "-"
-name                     : &name ""
+name                     : &name "Gillian Reynolds"
 description              : &description "PhD student at Montana State University"
 url                      : https://Glfrey.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
