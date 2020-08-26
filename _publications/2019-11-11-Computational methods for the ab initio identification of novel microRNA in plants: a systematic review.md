@@ -1,7 +1,7 @@
 ---
 title: Computational methods for the ab initio identification of novel microRNA in plants: a systematic review
 collection: publications
-permalink: /publication/2010-10-01-Computational methods for the ab initio identification of novel microRNA in plants: a systematic review.md
+permalink: /publication/2019-11-11-Computational methods for the ab initio identification of novel microRNA in plants: a systematic review.md
 excerpt: ''
 date: 2019-11-11
 venue: 'PeerJ Computer Science'
@@ -11,4 +11,4 @@ citation: 'Manuweera, B., Reynolds, G. and Kahanda, I. (2019). &quot;Computation
 
 [Download paper here](http://Glfrey.github.io/files/peerj-cs-233.pdf)
 
-Recommended citation: Manuweera, B., Reynolds, G. and Kahanda. (2019). "omputational methods for the ab initio identification of novel microRNA in plants: a systematic review." <i> PeerJ Computer Science </i>. 5, p.e233..
+Recommended citation: Manuweera, B., Reynolds, G. and Kahanda. (2019). "Computational methods for the ab initio identification of novel microRNA in plants: a systematic review." <i> PeerJ Computer Science </i>. 5, p.e233..
