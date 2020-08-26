@@ -4,7 +4,7 @@ family in Physcomitrella patens"
 collection: publications
 permalink: 
 excerpt: ''
-date: 2016-09
+date: 2016-09-01
 venue: 'MOSS 2016 Conference'
 paperurl: 'http://Glfrey.github.io/files/moss.pdf'
 citation: 'Sherrard, G., Woolard, G., & Wheeler, M. (2016). &quot;Investigating the Function of a Small Secreted Protein Family in Physcomitrella Patens
