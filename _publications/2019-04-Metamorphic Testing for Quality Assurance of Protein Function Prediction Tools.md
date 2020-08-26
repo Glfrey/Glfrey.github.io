@@ -3,7 +3,7 @@ title: "Metamorphic Testing for Quality Assurance of
 Protein Function Prediction Tools"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2019-04-01
 venue: 'IEEE'
 paperurl: 'http://Glfrey.github.io/files/mettest.pdf'
