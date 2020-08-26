@@ -1,7 +1,7 @@
 ---
 title: Computational methods for the ab initio identification of novel microRNA in plants: a systematic review
 collection: publications
-permalink: /publication/2019-11-11-Computational methods for the ab initio identification of novel microRNA in plants: a systematic review
+permalink: 
 excerpt: ''
 date: 2019-11-11
 venue: 'PeerJ Computer Science'
