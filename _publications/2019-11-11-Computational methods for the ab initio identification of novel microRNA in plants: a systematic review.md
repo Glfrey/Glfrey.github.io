@@ -1,5 +1,5 @@
 ---
-title: Computational methods for the ab initio identification of novel microRNA in plants: a systematic review
+title: "Computational methods for the ab initio identification of novel microRNA in plants: a systematic review"
 collection: publications
 permalink: 
 excerpt: ''
