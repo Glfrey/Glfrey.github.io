@@ -11,30 +11,24 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc(Hons) Biology, The University of Worcester, U.K. (2014)
+* MRes Biology, The University of Worcester, U.K. (2018)
+* Individual Interdisciplinary Ph.D in Computer Science and Plant Genetics, Montana State University  (In progress)
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistantship, Montana State University
+  *2018-present
+* Associate Lecturer in Biology, University of Worcester
+  * 2016 - 2018
+* Independent Study Co-Supervisor, University of Worcester 
+  *2016 - 2017
+* Data Quality Improvement Officer, National Health Service (NHS), Worcestershire Acute Trust 
+  *2015 - 2017
+*Guest Lecturer in Biology, University of Worcester
+  *2014 - 2016
+*Research Assistant, University of Worcester
+  *2014 - 2015
 
 Publications
 ======
@@ -54,6 +48,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
