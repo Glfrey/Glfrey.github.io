@@ -24,7 +24,7 @@ Education
 Employment
 ======
 * Research Assistantship, Montana State University
-  *2018-present
+  *2018-present  
 * Associate Lecturer in Biology, University of Worcester
   * 2016 - 2018
 * Independent Study Co-Supervisor, University of Worcester 
