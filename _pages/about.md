@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-A personal website for Gillian Reynolds
+A personal website for Gillian Reynolds. 
+
+[lab website](https://www.montana.edu/lachowieclab)
