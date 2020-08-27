@@ -1,5 +1,5 @@
 ---
-title: "Guest Lecturer in Cell Biology-Introduction to bioinformatics"
+title: "Guest Lecturer in Cell Biology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-cellbio
@@ -8,5 +8,5 @@ date: 2020-03-31
 location: "Worcester, United Kingdom"
 ---
 
-Guest Lecturer in Cell Biology - Introduction to bioinformatics
+Guest Lecturer in the first year undergraduate module "Cell Biology" at the University of Worcester where the subject was "An introduction to bioinformatics". 
 
