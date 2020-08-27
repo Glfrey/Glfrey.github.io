@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+Link to CV PDF
+======
+
+[Gillian Reynolds CV](.../files/C_V.pdf)
+
+
 Education
 ======
 * BSc(Hons) Biology, The University of Worcester, U.K. (2014)
