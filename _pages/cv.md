@@ -23,18 +23,12 @@ Education
 
 Employment
 ======
-* Research Assistantship, Montana State University
-  *2018-present  
-* Associate Lecturer in Biology, University of Worcester
-  * 2016 - 2018
-* Independent Study Co-Supervisor, University of Worcester 
-  *2016 - 2017
-* Data Quality Improvement Officer, National Health Service (NHS), Worcestershire Acute Trust 
-  *2015 - 2017
-*Guest Lecturer in Biology, University of Worcester
-  *2014 - 2016
-*Research Assistant, University of Worcester
-  *2014 - 2015
+* Research Assistantship, Montana State University 2018-present  
+* Associate Lecturer in Biology, University of Worcester 2016 - 2018
+* Independent Study Co-Supervisor, University of Worcester 2016 - 2017
+* Data Quality Improvement Officer, National Health Service (NHS), Worcestershire Acute Trust 2015 - 2017
+* Guest Lecturer in Biology, University of Worcester 2014 - 2016
+* Research Assistant, University of Worcester 2014 - 2015
 
 Publications
 ======
