@@ -8,5 +8,5 @@ date: 2020-03-31
 location: "Worcester, United Kingdom"
 ---
 
-Guest Lecturer in the first year undergraduate module "Cell Biology" at the University of Worcester where the subject was "An introduction to bioinformatics". 
+Guest Lecturer in the first year undergraduate module "Cell Biology" at the University of Worcester where the subject was "An introduction to bioinformatics" which featured both a lecture and a practical workshop.
 
