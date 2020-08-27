@@ -12,7 +12,7 @@ redirect_from:
 Link to CV PDF
 ======
 
-[Gillian Reynolds CV](Glfrey.github.io/files/C_V.pdf)
+[Gillian Reynolds CV](https://glfrey.github.io/files/C_V.pdf)
 
 
 Education
