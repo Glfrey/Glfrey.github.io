@@ -1,4 +1,3 @@
-
 ---
 title: "Identifying features for subgenomic sequence identification in a De Bruijn Graph (DBG)"
 collection: talks
