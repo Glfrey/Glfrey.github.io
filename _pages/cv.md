@@ -17,12 +17,15 @@ Link to CV PDF
 
 Education
 ======
-* BSc(Hons) Biology, The University of Worcester, U.K. (2014)
+* Individual Interdisciplinary Ph.D in Computer Science and Plant Genetics, Montana State University, USA. (2022)
 * MRes Biology, The University of Worcester, U.K. (2018)
-* Individual Interdisciplinary Ph.D in Computer Science and Plant Genetics, Montana State University  (In progress)
+* BSc(Hons) Biology, The University of Worcester, U.K. (2014)
 
 Employment
 ======
+* Senior Bioinformatician January 2024-Present
+* Scientist (Bioinformatics) March 2023-December 2023
+* Research Assistant (Bioinformatics), Mursla Bio Jan 2023-March 2023
 * Research Assistantship, Montana State University 2018-present  
 * Associate Lecturer in Biology, University of Worcester 2016 - 2018
 * Independent Study Co-Supervisor, University of Worcester 2016 - 2017
