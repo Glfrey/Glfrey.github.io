@@ -24,7 +24,7 @@ Education
 Employment
 ======
 * Senior Bioinformatician January 2024-Present
-* Scientist (Bioinformatics) March 2023-December 2023
+* Scientist (Bioinformatics) Mursla Bio March 2023-December 2023
 * Research Assistant (Bioinformatics), Mursla Bio Jan 2023-March 2023
 * Research Assistantship, Montana State University 2018-present  
 * Associate Lecturer in Biology, University of Worcester 2016 - 2018
